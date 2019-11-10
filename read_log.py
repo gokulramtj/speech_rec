@@ -1,0 +1,1 @@
+print(open("project_log.txt", "r+").read())

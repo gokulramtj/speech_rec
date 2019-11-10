@@ -1,2 +1,9 @@
 2019-11-09 20:02:06.103908	First successfull log run
 2019-11-09 20:02:20.891371	Done for the day
+2019-11-09 21:06:02.944697	initialized git repo
+2019-11-10 13:56:00.863152	Started research for speech rec offline model
+2019-11-10 14:23:13.258034	Trying pocketsphinx library for python
+2019-11-10 14:43:16.234391	Installing SWIG and VC++ 2014 build tools for dependency issues(about 1.4G)
+2019-11-10 15:12:53.447002	Successfully setup pocketsphinx
+2019-11-10 15:21:46.146739	Working on a prototype
+2019-11-10 16:20:58.670727	A basic prototype is setup
