@@ -7,3 +7,12 @@
 2019-11-10 15:12:53.447002	Successfully setup pocketsphinx
 2019-11-10 15:21:46.146739	Working on a prototype
 2019-11-10 16:20:58.670727	A basic prototype is setup
+2019-11-10 17:16:34.801728	Implemented simultaneous writing to file working on accuracy
+2019-11-10 17:58:03.736609	Done for the day
+2019-11-20 20:21:47.975948	Trying to implement google api to recognize in realtime
+2019-11-20 20:47:24.614036	Google api is accurate but its not fast in recognition
+2019-11-20 21:01:20.810699	recognition lag issue solved. problem was with the high latency of internet connection
+2019-11-20 21:01:28.235601	first successful run
+2019-11-20 21:07:31.971584	trying to parallelize the listening and recognizing process using threads
+2019-11-20 21:42:45.515324	There is no stable way to implement parallel thread in python for this implementation
+2019-11-20 21:47:52.010547	Done for the day
