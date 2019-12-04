@@ -16,3 +16,5 @@
 2019-11-20 21:07:31.971584	trying to parallelize the listening and recognizing process using threads
 2019-11-20 21:42:45.515324	There is no stable way to implement parallel thread in python for this implementation
 2019-11-20 21:47:52.010547	Done for the day
+2019-12-04 21:54:53.098520	Started Bug fixing
+2019-12-05 00:11:38.737865	Fixed bug and implemented client server prototype, working on parallel processing

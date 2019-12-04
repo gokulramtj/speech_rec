@@ -15,7 +15,7 @@ def recognize(audio):
 
     except sr.UnknownValueError: 
         print("Could not understand audio") 
-        flag = False
+        flag = True
 
     except sr.RequestError as e: 
         print("Could not connect to internet {0}".format(e)) 
