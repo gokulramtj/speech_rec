@@ -22,3 +22,4 @@
 2019-12-05 00:40:12.691010	microsoft presentation translator is a plugin for office suite, there is no opensource api type implementaion
 2019-12-05 00:40:20.964198	done for the day
 2019-12-09 16:00:29.713701	trying file buffer approach
+2019-12-09 18:13:30.660857	Done for the day
