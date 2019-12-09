@@ -18,3 +18,7 @@
 2019-11-20 21:47:52.010547	Done for the day
 2019-12-04 21:54:53.098520	Started Bug fixing
 2019-12-05 00:11:38.737865	Fixed bug and implemented client server prototype, working on parallel processing
+2019-12-05 00:35:37.326536	Trying out microsoft Presentation translator
+2019-12-05 00:40:12.691010	microsoft presentation translator is a plugin for office suite, there is no opensource api type implementaion
+2019-12-05 00:40:20.964198	done for the day
+2019-12-09 16:00:29.713701	trying file buffer approach
